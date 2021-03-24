@@ -10,7 +10,7 @@ namespace Library
 	public class Station
 	{
         string username = "root";
-        string password = "05443779897Maa";
+        string password = "sifreni_gir";
         string database = "tracking_system";
         public static string server = "127.0.0.1";
 
