@@ -1,0 +1,7 @@
+C:\Users\muhan\Desktop\KKS\gps_device\gps_device\bin\Debug\gps_device.exe.config
+C:\Users\muhan\Desktop\KKS\gps_device\gps_device\bin\Debug\gps_device.exe
+C:\Users\muhan\Desktop\KKS\gps_device\gps_device\bin\Debug\gps_device.pdb
+C:\Users\muhan\Desktop\KKS\gps_device\gps_device\obj\Debug\gps_device.csprojAssemblyReference.cache
+C:\Users\muhan\Desktop\KKS\gps_device\gps_device\obj\Debug\gps_device.csproj.CoreCompileInputs.cache
+C:\Users\muhan\Desktop\KKS\gps_device\gps_device\obj\Debug\gps_device.exe
+C:\Users\muhan\Desktop\KKS\gps_device\gps_device\obj\Debug\gps_device.pdb
