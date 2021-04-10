@@ -10,8 +10,8 @@ namespace Library
 	public class Station
 	{
         string username = "root";
-        string password = "05443779897Maa";
-        string database = "tracking_system";
+        string password = "";
+        string database = "tracker_db";
         public static string server = "127.0.0.1";
 
         ConnectionInfo connInfo = new ConnectionInfo();

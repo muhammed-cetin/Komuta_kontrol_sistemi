@@ -12,3 +12,10 @@ C:\Users\muhan\source\repos\anilaldogan\Komuta_kontrol_sistemi\gps_device\gps_de
 C:\Users\muhan\source\repos\anilaldogan\Komuta_kontrol_sistemi\gps_device\gps_device\obj\Debug\gps_device.csproj.CoreCompileInputs.cache
 C:\Users\muhan\source\repos\anilaldogan\Komuta_kontrol_sistemi\gps_device\gps_device\obj\Debug\gps_device.exe
 C:\Users\muhan\source\repos\anilaldogan\Komuta_kontrol_sistemi\gps_device\gps_device\obj\Debug\gps_device.pdb
+C:\Users\c1to\source\repos\Komuta_kontrol_sistemi\gps_device\gps_device\bin\Debug\gps_device.exe.config
+C:\Users\c1to\source\repos\Komuta_kontrol_sistemi\gps_device\gps_device\bin\Debug\gps_device.exe
+C:\Users\c1to\source\repos\Komuta_kontrol_sistemi\gps_device\gps_device\bin\Debug\gps_device.pdb
+C:\Users\c1to\source\repos\Komuta_kontrol_sistemi\gps_device\gps_device\obj\Debug\gps_device.csprojAssemblyReference.cache
+C:\Users\c1to\source\repos\Komuta_kontrol_sistemi\gps_device\gps_device\obj\Debug\gps_device.csproj.CoreCompileInputs.cache
+C:\Users\c1to\source\repos\Komuta_kontrol_sistemi\gps_device\gps_device\obj\Debug\gps_device.exe
+C:\Users\c1to\source\repos\Komuta_kontrol_sistemi\gps_device\gps_device\obj\Debug\gps_device.pdb
